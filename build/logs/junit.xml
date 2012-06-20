@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="php-demo" tests="2" assertions="2" failures="0" errors="0" time="0.016116">
+    <testsuite name="MyClassTest" file="/home/ology023/mydemo/tests/MyClassTest.php" tests="2" assertions="2" failures="0" errors="0" time="0.016116">
+      <testcase name="testDemoFor1" class="MyClassTest" file="/home/ology023/mydemo/tests/MyClassTest.php" line="7" assertions="1" time="0.014047"/>
+      <testcase name="testDemoFor0" class="MyClassTest" file="/home/ology023/mydemo/tests/MyClassTest.php" line="12" assertions="1" time="0.002069"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://xml.phpdox.de/src#">
+  <head path="src" file="MyClass.php" realpath="/home/ology023/mydemo/src/MyClass.php" size="137" time="2012-06-20T13:37:35-04:00" unixtime="1340213855" sha1="0d20857263225618b2a770e8267337e64b9f77f2"/>
+  <class full="MyClass" name="MyClass" final="false" abstract="false" start="3" end="10">
+    <method name="demo" start="4" end="9" abstract="false" final="false" static="false" visibility="public">
+      <parameter name="a" type="{unknown}" optional="false" byreference="false"/>
+    </method>
+  </class>
+</file>

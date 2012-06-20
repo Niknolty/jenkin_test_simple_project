@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes xmlns="http://xml.phpdox.de/src#">
+  <class full="MyClass" name="MyClass" final="false" abstract="false" start="3" end="10" xml="src/MyClass.php.xml" src="/home/ology023/mydemo/src/MyClass.php"/>
+</classes>
