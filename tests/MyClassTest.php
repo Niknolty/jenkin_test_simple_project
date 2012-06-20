@@ -13,5 +13,10 @@ class MyClassTest extends PHPUnit_Framework_TestCase {
         $x = new MyClass();
         $this->assertEquals(0, $x->demo(0));
     }
+    
+    public function testDemoDoNotPass() {
+        $x = new MyClass();
+        $this->assertEquals(14, $x->demo(0));
+    }
 }
 ?>
