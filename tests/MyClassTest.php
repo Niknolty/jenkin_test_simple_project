@@ -16,7 +16,7 @@ class MyClassTest extends PHPUnit_Framework_TestCase {
     
     public function testDemoDoNotPass() {
         $x = new MyClass();
-        $this->assertEquals(55, $x->demo(0));
+        $this->assertEquals(1, $x->demo(1));
     }
     
     public function testDemoDoNotPass2() {
@@ -27,6 +27,11 @@ class MyClassTest extends PHPUnit_Framework_TestCase {
     public function testDemoDoNotPass3() {
         $x = new MyClass();
         $this->assertEquals(0, $x->demo(0));
+    }
+    
+    public function testDemoDoNotPass4() {
+        $x = new MyClass();
+        $this->assertEquals(1, $x->demo(1));
     }
 }
 ?>
